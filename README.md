@@ -1,2 +1,2 @@
-# edsoc
-social hub for students
+# Edsoc
+Social hub for students
