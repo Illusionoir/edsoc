@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/edsoc/static/js/main.49f51112.js",
+    "main.css": "/edsoc/static/css/main.6075e6d5.css",
+    "main.js": "/edsoc/static/js/main.c6f0c595.js",
     "index.html": "/edsoc/index.html",
-    "main.49f51112.js.map": "/edsoc/static/js/main.49f51112.js.map"
+    "main.6075e6d5.css.map": "/edsoc/static/css/main.6075e6d5.css.map",
+    "main.c6f0c595.js.map": "/edsoc/static/js/main.c6f0c595.js.map"
   },
   "entrypoints": [
-    "static/js/main.49f51112.js"
+    "static/css/main.6075e6d5.css",
+    "static/js/main.c6f0c595.js"
   ]
 }
