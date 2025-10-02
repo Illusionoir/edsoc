@@ -3,3 +3,51 @@ body {
   font-family: Arial, sans-serif;
   background-color: #f5f6fa;
 }
+
+header {
+  background-color: #2d89ef;
+  color: white;
+  padding: 15px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  padding: 20px;
+}
+
+.feed {
+  flex: 3;
+  margin-right: 20px;
+}
+
+.sidebar {
+  flex: 1;
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.post {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+.post h2 {
+  margin: 0 0 10px;
+}
+
+.post small {
+  color: #555;
+}
