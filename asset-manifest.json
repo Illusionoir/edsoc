@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.c67a802e.js",
-    "index.html": "/index.html",
-    "main.c67a802e.js.map": "/static/js/main.c67a802e.js.map"
+    "main.js": "/edsoc/static/js/main.c67a802e.js",
+    "index.html": "/edsoc/index.html",
+    "main.c67a802e.js.map": "/edsoc/static/js/main.c67a802e.js.map"
   },
   "entrypoints": [
     "static/js/main.c67a802e.js"
