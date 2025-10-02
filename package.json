@@ -2,6 +2,7 @@
   "name": "Edsoc",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://illusionoir.github.io/edsoc",  <-- 👈 ADD THIS
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
